@@ -1,0 +1,10 @@
+D:\Praktikum Konstruksi PL\modul3\modul3\bin\Debug\modul3.exe.config
+D:\Praktikum Konstruksi PL\modul3\modul3\bin\Debug\modul3.exe
+D:\Praktikum Konstruksi PL\modul3\modul3\bin\Debug\modul3.pdb
+D:\Praktikum Konstruksi PL\modul3\modul3\obj\Debug\modul3.csproj.AssemblyReference.cache
+D:\Praktikum Konstruksi PL\modul3\modul3\obj\Debug\modul3.Form1.resources
+D:\Praktikum Konstruksi PL\modul3\modul3\obj\Debug\modul3.Properties.Resources.resources
+D:\Praktikum Konstruksi PL\modul3\modul3\obj\Debug\modul3.csproj.GenerateResource.cache
+D:\Praktikum Konstruksi PL\modul3\modul3\obj\Debug\modul3.csproj.CoreCompileInputs.cache
+D:\Praktikum Konstruksi PL\modul3\modul3\obj\Debug\modul3.exe
+D:\Praktikum Konstruksi PL\modul3\modul3\obj\Debug\modul3.pdb
